@@ -13,7 +13,7 @@ This project simulates a consulting engagement: the dataset is synthetic (source
 ## Business Questions
 1. Is any channel meaningfully better than the others, or do they all perform about the same, and is that consistent across companies?
 2. Is any company performing meaningfully better than the others, or are they roughly the same?
-3.. Has performance in any channel or company shifted meaningfully over the year, or has it stayed flat?
+3. Has performance in any channel or company shifted meaningfully over the year, or has it stayed flat?
 
 ## Overview
 Analysis of 200,000 marketing campaigns across 5 fictional companies using MySQL and Power BI. 
