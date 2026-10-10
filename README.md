@@ -45,6 +45,8 @@ The project explores ROI, CTR, conversion rate, and acquisition cost across chan
 ---
 
 ## Project Structure
+
+```
 marketing-campaign-analysis/
     │
     ├── README.md
@@ -52,6 +54,7 @@ marketing-campaign-analysis/
     │       └── marketing_campaign_analysis.sql
     └── powerbi/
             └── marketing_campaign_analysis..pbix
+´´´
 
 ---
 
