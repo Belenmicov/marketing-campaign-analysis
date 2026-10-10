@@ -96,7 +96,7 @@ Analysis of target audience, language, and campaign duration as secondary dimens
 ROI | Primary | Return per unit spent — links cost directly to return, which a budget-split decision needs
 Acquisition Cost | Supporting | Cost per customer — protects against treating two equal-ROI channels as equally attractive when one costs far more per customer
 Campaign Volume (COUNT) | Supporting | Confirms a result isn't based on too small a sample to be reliable
-Conversion Rate	Diagnostic | Helps explain why ROI moves
+Conversion Rate	| Diagnostic | Helps explain why ROI moves
 CTR | Diagnostic | Creative/ad relevance, independent of conversion
 
 ---
