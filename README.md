@@ -23,7 +23,7 @@ The project explores ROI, CTR, conversion rate, and acquisition cost across chan
 
 ## Author
 **Belén Micó Velarde**  
-[LinkedIn](https://www.linkedin.com/in/belenmicov)
+[LinkedIn](www.linkedin.com/in/belenmicovelarde)
 
 ---
 
