@@ -82,17 +82,17 @@ Analysis of target audience, language, and campaign duration as secondary dimens
 
 ## Power BI Dashboard Structure
 
-**Overview** -> What is the overall scale and performance of campaigns?
+**Overview** - What is the overall scale and performance of campaigns?
 
-**Company Ranking** --> Which company performs best across all metrics?
+**Company Ranking** - Which company performs best across all metrics?
 
-**Channel & Campaign Type** --> Which channel and campaign type drives the best ROI?
+**Channel & Campaign Type** - Which channel and campaign type drives the best ROI?
 
-**Segments & Audiences** --> Which customer segment is most profitable?
+**Segments & Audiences** - Which customer segment is most profitable?
 
-**Trend Over Time** --> Does ROI improve or decline throughout 2021?
+**Trend Over Time** - Does ROI improve or decline throughout 2021?
 
-**Secondary Analysis** --> Do audience, language and duration affect performance?
+**Secondary Analysis** - Do audience, language and duration affect performance?
 
 ---
 
