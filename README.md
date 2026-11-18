@@ -82,7 +82,7 @@ Analysis of target audience, language, and campaign duration as secondary dimens
 
 ## Power BI Dashboard Structure
 
-**Overview** --> What is the overall scale and performance of campaigns?
+**Overview** -> What is the overall scale and performance of campaigns?
 
 **Company Ranking** --> Which company performs best across all metrics?
 
@@ -109,7 +109,9 @@ CTR | Diagnostic | Creative/ad relevance, independent of conversion
 ## DAX Measures Created
 
 CTR = DIVIDE(SUM(marketing_dataset[Clicks]), SUM(marketing_dataset[Impressions])) * 100
+
 Efficiency Score = DIVIDE(AVERAGE(marketing_dataset[ROI]), AVERAGE(marketing_dataset[Acquisition_Cost]))
+
 Cost per Click = DIVIDE(SUM(marketing_dataset[Acquisition_Cost]), SUM(marketing_dataset[Clicks]))
 
 ---
